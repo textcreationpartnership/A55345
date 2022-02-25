@@ -1,0 +1,485 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The life of the right honourable and religious Lady Christian[a], late Countess Dowager of Devonshire</title>
+            <author>Pomfret, Thomas, d. 1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 56 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A55345</idno>
+            <idno type="STC">Wing P2799</idno>
+            <idno type="STC">ESTC R3342</idno>
+            <idno type="EEBO-CITATION">11880886</idno>
+            <idno type="OCLC">ocm 11880886</idno>
+            <idno type="VID">50328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A55345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50328)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 506:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The life of the right honourable and religious Lady Christian[a], late Countess Dowager of Devonshire</title>
+                  <author>Pomfret, Thomas, d. 1705.</author>
+               </titleStmt>
+               <extent>[11], 98, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Rawlins for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: The life of the Countess of Devonshire.</note>
+                  <note>"The epistle dedicatory" signed: Tho. Pomfret.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Devonshire, Christiana Cavendish, --  Countess of, d. 1675.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:50328:1"/>
+               <pb facs="tcp:50328:1"/>
+THE LIFE OF THE Right Honourable AND Religious Lady CHRISTIAN Late Counteſs Dowager OF <hi>DEVONSHIRE.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi>
+            </p>
+            <p>Printed by <hi>William Rawlins</hi> for the Author, 1685.</p>
+            <figure>
+               <head>SIC DONEC</head>
+               <head>
+                  <hi>The Right Hon<hi rend="sup">ble</hi>. Scroop Eger<g ref="char:EOLhyphen"/>ton Earl of Bridgwater Viſcount Brackley Baron of Elſmere</hi> 1703</head>
+               <figDesc>family blazon</figDesc>
+            </figure>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:50328:2"/>
+            <head>
+               <hi>TO THE Right Honourable AND Truly NOBLE WILLIAM Earl of</hi> Devonſhire, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>MY LORD,</salute>
+            </opener>
+            <p>SINCE I must ac<g ref="char:EOLhyphen"/>knowledg, that of all men in the World, I am
+<pb facs="tcp:50328:3"/>
+the moſt unfit to ſpeak ſuch great Things, as the following Relation doth justly challenge; I was in ſome ſuſpence, whether I ſhould lay it at your Feet, for Patronage, or Par<g ref="char:EOLhyphen"/>don. But being Conſcious that I have performed it very ill, and that it may fall into ſome other hands, that may think ſo too, I
+<pb facs="tcp:50328:3"/>
+muſt humbly beg them both. I ſhall moſt willing<g ref="char:EOLhyphen"/>ly confeſs, that for the ſame Reaſons I blame the writing, I ought to have foreborn the Impreſſion; becauſe Folly is the more excuſable when it dwells within its own Retire<g ref="char:EOLhyphen"/>ments, and goes not abroad to give others the Trouble, or Occaſion of a freer and
+<pb facs="tcp:50328:4"/>
+more publick Cenſure. But I have ſent it forth with my own Condemnation; and ſhall only Beſeech Your Lordſhip to expound the Miſtake, as a Teſtimony of that value I had for the Counteſs of <hi>Devon<g ref="char:EOLhyphen"/>ſhires</hi> Memory, and Ver<g ref="char:EOLhyphen"/>tues. And having named to Your Lordſhip, that Dear and Honourable La<g ref="char:EOLhyphen"/>dy,
+<pb facs="tcp:50328:4"/>
+I may rest aſſured, that for the ſake of that Re<g ref="char:EOLhyphen"/>lation, the following Ac<g ref="char:EOLhyphen"/>count hath to Her, it must have alſo a kind Re<g ref="char:EOLhyphen"/>ception from You; if it be, but for thoſe Regards the thing it ſelf hath to Your Mother. And then I am the leſs concerned what Fortune I meet withall from others; ſince I did
+<pb facs="tcp:50328:5"/>
+not intend it as a Strata<g ref="char:EOLhyphen"/>gem for Applauſe, but as plain Relation of the great Merits of a Perſonage, that ought to be Dear to Your Lordſhip; and of ſuch Worthineſs that Renders her mighty valuable to all others. And though, I have failed in giving juſt Accounts of her Vertues (which were in themſelves
+<pb facs="tcp:50328:5"/>
+the greateſt) yet I have at leaſt ſignified what ſhould have been ſaid by</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>
+                  <hi>Your Honours Moſt humble Servant</hi> Tho. Pomfret.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:50328:6"/>
+            <pb n="1" facs="tcp:50328:6"/>
+            <head>THE LIFE OF Chriſtian LATE Counteſs of <hi>Devonſhire.</hi>
+            </head>
+            <p>THOUGH the Num<g ref="char:EOLhyphen"/>ber of Ladies, emi<g ref="char:EOLhyphen"/>nent in Goodneſs is very great; and we may raiſe <hi>Ideas</hi> of the moſt reſplendent
+<pb n="2" facs="tcp:50328:7"/>
+Vertues from thoſe that are the living Ornaments, and might alſo be the nobleſt Pat<g ref="char:EOLhyphen"/>terns to the preſent Age: yet conſidering that no one of Theſe (though the moſt Ac<g ref="char:EOLhyphen"/>compliſhed) can be brought forth, as a Preſident to others, without the ſuſpicion of Flat<g ref="char:EOLhyphen"/>tery on the one ſide, or rai<g ref="char:EOLhyphen"/>ſing Envy, and Indignation on the other; I have choſen a Noble Perſonage, out of the number of the Dead, of incomparable Piety and Pru<g ref="char:EOLhyphen"/>dence, (intended by Provi<g ref="char:EOLhyphen"/>dence to make Vertue love<g ref="char:EOLhyphen"/>ly and imitable) to ſpeak truth of whom, can Regret none; and whom too, as her Merits were above, ſo it
+<pb n="3" facs="tcp:50328:7"/>
+hath pleaſed God to remove from the Opportunities of be<g ref="char:EOLhyphen"/>ing flatterd. A Vice, to which, if I could be tempted, it would here be the moſt uſeleſs, her Native, Genuine, and Real Beauties being ſo many, and ſo illuſtrious.</p>
+            <p>It is <hi>Chriſtian</hi> late <hi>Counteſs</hi> of <hi>Devonſhire;</hi> who in all her Actions did ſo excel, and in ſome of them was ſo ex<g ref="char:EOLhyphen"/>traordinary, that not to com<g ref="char:EOLhyphen"/>memorate them, would be a great injuſtice to her ſelf; but a greater to the World.</p>
+            <p>Not that I think ſo many Great things done before the eyes of ſo many yet alive, can eaſily paſs into Forget<g ref="char:EOLhyphen"/>fulneſs in the preſent; or for
+<pb n="4" facs="tcp:50328:8"/>
+their Rarity, will not be tranſ<g ref="char:EOLhyphen"/>mitted to future times; but rather, becauſe ſome (and perhaps thoſe of the greateſt Luſtre) may be incompleat<g ref="char:EOLhyphen"/>ly Related, if they be not faithfully collected into one bundle, for the Admiration of this, and the Imitation of Poſterity. I foreſee, and ſhall now therefore confeſs, that I am no ways competent, well to Acquit my ſelf in ſo great an Undertaking, and ſhould indeavour to captivate the Reader, by telling him the Reaſons inducing me to this Publication, and bring them in to bear the blame of the whole miſcarriage: but I ſhall only ſay; that
+<pb n="5" facs="tcp:50328:8"/>
+the Fame of her Vertues which had ſpread through this Kingdom, and gone in<g ref="char:EOLhyphen"/>to others, (many years ſince) did ſo delight me; and that having the Honour of know<g ref="char:EOLhyphen"/>ing much more, of the great Paſſages of her Life from a Noble Perſon, nearly related to her, I could not forbear declaring what I have heard; but whither the thus publick<g ref="char:EOLhyphen"/>ly telling them will not bring upon me ſome Cenſures, I am not at all concerned, nor at leiſure to account for.</p>
+            <p>I will not be ſo Confi<g ref="char:EOLhyphen"/>dent of my own opinion of things, to Impoſe upon any, and to conclude, that what to me was ſo pleaſurable to
+<pb n="6" facs="tcp:50328:9"/>
+Hear, muſt alſo be an equal entertainment to all that Read; yet I humbly con<g ref="char:EOLhyphen"/>ceive that the following Nar<g ref="char:EOLhyphen"/>rative, may yield ſome Pro<g ref="char:EOLhyphen"/>fit, and Delight, to all, but ſuch, as come to it with Pre<g ref="char:EOLhyphen"/>judice, and Humor, becauſe it is a Ladies Life. For ſome there are (and thoſe too ma<g ref="char:EOLhyphen"/>ny) that love to expreſs their own great Accompliſhments, by making Invectives againſt the whole Sex: and ſo far Indulge themſelves in Satyr, and Licence, that God Al<g ref="char:EOLhyphen"/>mighty himſelf cannot eſcape their Railery, but his Wiſ<g ref="char:EOLhyphen"/>dom, muſt be called in queſti<g ref="char:EOLhyphen"/>on, for making ſo uſeleſs, and miſchievous a Part of the
+<pb n="7" facs="tcp:50328:9"/>
+Creation, as they would have Woman.</p>
+            <p>And in this Opinion they think themſelves mightily de<g ref="char:EOLhyphen"/>fended, becauſe <hi>Solomon</hi> once asked the Queſtion, who can find a good one? To which Inquiry, though all Nations, and Ages have given ſuffici<g ref="char:EOLhyphen"/>ent ſatisfaction, yet I beg leave, (to put it beyond all diſpute) to repreſent to the World, the Perfections of a Lady, that was an Ornament to her Sex, and may be al<g ref="char:EOLhyphen"/>lowed to be a juſt Model of all Vertues. Only I would take leave to remarque, (be<g ref="char:EOLhyphen"/>fore I come to her parti<g ref="char:EOLhyphen"/>cular Qualities) that the World was ever enlightned
+<pb n="8" facs="tcp:50328:10"/>
+with the Charms, and Excel<g ref="char:EOLhyphen"/>lencies of this Sex.</p>
+            <p>
+               <hi>Solomon</hi> himſelf found an <hi>Egyptian, Pharaohs</hi> Daughter that was all glorious with<g ref="char:EOLhyphen"/>in; nothing but Raies, and Glories, the Court of Heaven it ſelf, in his own opinion, dwelling in her Boſom. Of his own Nation, it was a Woman, that more than once, delivered <hi>Iſrael;</hi> when the Men, and <hi>Baruch</hi> himſelf too were turned Cowards. <hi>Deborah, Judeth,</hi> and <hi>Heſter,</hi> are high in the ſame Records of Fame<hi>:</hi> and it was a Wo<g ref="char:EOLhyphen"/>man that fed <hi>Eliſha,</hi> when the whole Nation had for<g ref="char:EOLhyphen"/>ſaken him. Wicked <hi>Herod</hi> found a <hi>Mariamne,</hi> a ſweet,
+<pb n="9" facs="tcp:50328:10"/>
+ſober, conſtant Patience; <hi>The<g ref="char:EOLhyphen"/>odoſius,</hi> a brave, pious, he<g ref="char:EOLhyphen"/>roic <hi>Eudoxia.</hi> One, disfi<g ref="char:EOLhyphen"/>gures her Face to quench the ſparks, a Tyrants love had kindled: another of <hi>Alexan<g ref="char:EOLhyphen"/>dria</hi> lives amongſt the Dead, to defend her Chaſtity. A third, <hi>Leucy</hi> by name, pluck<g ref="char:EOLhyphen"/>ed out her eyes, that ſhe might extinguiſh the inraged flames of unlawful Love in<g ref="char:EOLhyphen"/>kindled at them.</p>
+            <p>For Conjugal Fidelity; <hi>Clara</hi> a young Virgin, ſix<g ref="char:EOLhyphen"/>teen years old, obliges her ſelf to a ſtrict Attendance on her Husband, infected with a Diſeaſe, incurable, noiſom, and inſupportable to all the World beſides. <hi>Ca<g ref="char:EOLhyphen"/>badis,</hi>
+               <pb n="10" facs="tcp:50328:11"/>
+a <hi>Perſian</hi> Queen, diſ<g ref="char:EOLhyphen"/>guiſes her ſelf, and changes garments with her impriſon<g ref="char:EOLhyphen"/>ed Husband, and dies for him. <hi>Eponina</hi> lives nine years, in a Sepulcher with hers, and after diſcovery dies with him. The Mother of the <hi>Maccabees</hi> brings up her Children to Martyrdom, and dies her ſelf, bravely after them.</p>
+            <p>Others are as famous in the Monuments of Antiqui<g ref="char:EOLhyphen"/>ty, for Piety. <hi>Clotilda</hi> con<g ref="char:EOLhyphen"/>verts <hi>France</hi> to Chriſtianity; <hi>Indegondis,</hi> her Grandchild re<g ref="char:EOLhyphen"/>covers her Husband and part of <hi>Spain,</hi> from the <hi>Arrian</hi> Hereſie; <hi>Helena</hi> plants Chriſti<g ref="char:EOLhyphen"/>anity, in the <hi>Roman</hi> Empire; <hi>Ceſaria</hi> in <hi>Perſia; Theolinda</hi>
+               <pb n="11" facs="tcp:50328:11"/>
+in <hi>Italy; Margaret,</hi> in <hi>En<g ref="char:EOLhyphen"/>gland; Giſellis,</hi> in <hi>Hungary; Dambruca,</hi> in <hi>Poland; Olga,</hi> in <hi>Ruſſia; Ethelbirga,</hi> in <hi>Germa<g ref="char:EOLhyphen"/>ny.</hi>
+            </p>
+            <p>And for private Vertues; <hi>Abigail, Suſanna,</hi> S. <hi>Agnes,</hi> S. <hi>Cicely,</hi> S. <hi>Monica,</hi> S. <hi>Feli<g ref="char:EOLhyphen"/>citas, Zenobia, Pulcheria, The<g ref="char:EOLhyphen"/>odora, Marcella, Paula, Eu<g ref="char:EOLhyphen"/>ſtochium,</hi> and ten Thou<g ref="char:EOLhyphen"/>ſand more are the nobleſt Images. They were Women that in the Infant Church, led on the Men to Martyr<g ref="char:EOLhyphen"/>dom; and thronged them<g ref="char:EOLhyphen"/>ſelves in little Armies to Martyrs Fires; that brought up their Infants to the moſt glorious ſufferings; who, ſmiled the Tyrants into Rage,
+<pb n="12" facs="tcp:50328:12"/>
+and poſed the ſubtleſt inven<g ref="char:EOLhyphen"/>tions, of Pains, and Tor<g ref="char:EOLhyphen"/>tures.</p>
+            <p>And indeed the numbers, and ſorts of vertuous Wo<g ref="char:EOLhyphen"/>men have ſo increaſed in la<g ref="char:EOLhyphen"/>ter Hiſtories, that to refuſe them their honour, would be the ſame thing, as to de<g ref="char:EOLhyphen"/>ny the Splendors of the Sun; and either we muſt have no eyes, to ſee into the preſent, nor any faith to credit paſt Records, or we muſt allow, and admire their merit. But I might have ſuperſeded all theſe Authorities, and relyed wholly upon the following Life, to have demonſtrated this verity.</p>
+            <p>
+               <pb n="13" facs="tcp:50328:12"/>
+Neceſſary it will be, be<g ref="char:EOLhyphen"/>fore we come to relate what ſhe did, to know from whence ſhe was; it being not the leaſt Glory of her Character, that as God had equall'd her by Birth, to the greateſt of her time, ſo ſhe her ſelf equal<g ref="char:EOLhyphen"/>led her Vertues, to her Ex<g ref="char:EOLhyphen"/>traction.</p>
+            <p>Daughter ſhe was to <hi>Ed<g ref="char:EOLhyphen"/>ward</hi> Lord <hi>Bruce,</hi> of <hi>Kinloſs,</hi> Privy Councellor to King <hi>James,</hi> both in <hi>England</hi> and <hi>Scotland,</hi> and Maſter of the <hi>Rolls.</hi> He, <hi>Edward</hi> Lord <hi>Bruce,</hi> diſcending from <hi>Ro<g ref="char:EOLhyphen"/>bert Bruce</hi> the <hi>Norman,</hi> to whom <hi>William</hi> the firſt gave the Caſtle, and Lordſhip of <hi>Shelton,</hi> which was a Barony
+<pb n="14" facs="tcp:50328:13"/>
+by Tenure. From him de<g ref="char:EOLhyphen"/>ſcended all the Noble <hi>Bruces</hi> both of <hi>England</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land:</hi> and particularly <hi>Ro<g ref="char:EOLhyphen"/>bert,</hi> and <hi>David,</hi> both Kings of the <hi>Scots;</hi> whoſe Siſter marrying into the Family of the <hi>Stewarts,</hi> They in her Right inherited the Crown of that Nation. It cannot therefore but be worthy our firſt thoughts to contemplate how the divine Providence, deſigning her for the moſt illuſtrious Life, beſides, that it furniſhed her Soul, with ex<g ref="char:EOLhyphen"/>traordinary Graces, took care that it ſhould be united to a Body deſcending from a Fa<g ref="char:EOLhyphen"/>mily, flouriſhing in Riches and Honours; intending to
+<pb n="15" facs="tcp:50328:13"/>
+Remarque to her, what ſhe ſoon underſtood, and as tru<g ref="char:EOLhyphen"/>ly practiſed, that as God had raiſed her by her Birth to the heights of Glory, ſo ſhe ſhould conduct her ſelf to excel others as much in the Eminencies of Goodneſs, as ſhe did in Blood.</p>
+            <p>Such a Beauty therefore, we have here to delineate, not as we could wiſh were, or a ſtrong Imagination can Fancy; but ſuch an one, as is true and ſolid; and far better expreſſing her ſelf in her own life, than is poſſible by this Copy; ſhe not being to be parallell'd, by any thing but her ſelf. Who as ſhe was prepared by the Divine
+<pb n="16" facs="tcp:50328:14"/>
+goodneſs for Scenes of Dif<g ref="char:EOLhyphen"/>ficulty, and Honour, ſo was ſhe better taught to act her own Part, by obſerving, how her noble Father performed his.</p>
+            <p>He, the Lord <hi>Bruce</hi> a<g ref="char:EOLhyphen"/>mongſt other great Services done for his Royal Maſter King <hi>James,</hi> was alſo a Prin<g ref="char:EOLhyphen"/>cipal, and happy Inſtrument, of facilitating his obtaining the Crown of <hi>England:</hi> to which though he had an un<g ref="char:EOLhyphen"/>doubted Right, yet he met with very potent Obſtructi<g ref="char:EOLhyphen"/>ons; which in a great meaſure were removed by the Intereſt this noble Lord had before made in Secretary <hi>Cecil</hi> (after<g ref="char:EOLhyphen"/>wards Earl of <hi>Salisbury)</hi> and
+<pb n="17" facs="tcp:50328:14"/>
+divers others of the <hi>Engliſh</hi> Nobility.</p>
+            <p>A friendſhip he had con<g ref="char:EOLhyphen"/>tracted, both intimate, and fortunate, with ſome of the greateſt Intereſt, and Power, during his Embaſſy here in <hi>England</hi> to Queen <hi>Elizabeth;</hi> joined in it to the Earl of <hi>Marre;</hi> proving afterwards an opportunity of a nobler conjunction; that of the two Crowns, which, the King had no ſooner well ſetled to his Head, but he took this good Servant, nearer to his Heart, and Perſon; Animadverting, that he could not wear them with that ſecurity, and plea<g ref="char:EOLhyphen"/>ſure, he deſired, unleſs he might be Aſſiſted by ſo uſe<g ref="char:EOLhyphen"/>ful,
+<pb n="18" facs="tcp:50328:15"/>
+and loyal a Servant; brought him therefore into <hi>England</hi> with him, that he might continue him in his Fa<g ref="char:EOLhyphen"/>vours, and have him near, to conduct his Affairs, and Councils.</p>
+            <p>Several Sons he had; and but this only Daughter; ſhe born to him on <hi>Chriſtmas</hi> day, and for that reaſon had the name of <hi>Chriſtian:</hi> an<g ref="char:EOLhyphen"/>ſwering up to the higheſt meaſures, the glorious <hi>Omen,</hi> both of the Day and of her Name; appearing ſo ſoon to be <hi>Chriſtian,</hi> as if indeed, ſhe had been born one; expreſſing in her younger years, ſuch vigorous Demonſtrations of Goodneſs, that the World
+<pb n="19" facs="tcp:50328:15"/>
+might eaſily ſee, ſhe had a Soul, and Body, made at firſt to all poſſible Perfections.</p>
+            <p>Such Impreſſions did this Purity of her Youth, the Pregnancy of her Wit, her freedom from Paſſions, that neglect of Vanity, and ha<g ref="char:EOLhyphen"/>tred of Exceſs, together with that Modeſty, and Sweetneſs which were naturally hers, made upon the mind of her Indulgent and Diſcerning Father; that he expreſſed his value of her, and her own merit, by the firſt publick notice he could make; which was to marry her to an Heir of one of the greateſt Fami<g ref="char:EOLhyphen"/>lies, and Eſtates in <hi>England;</hi> and by giving alſo ſuch a
+<pb n="20" facs="tcp:50328:16"/>
+Portion, as in thoſe Days, did exceed, and would alſo now be a very great one, <hi>viz.</hi> 10000 <hi>l.</hi>
+            </p>
+            <p>Her Husband was Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Cavendiſh,</hi> Son to the Lord <hi>Cavendiſh</hi> (made after<g ref="char:EOLhyphen"/>wards Earl of <hi>Devonſhire)</hi> deſcending from the ancient ſtock of the <hi>Jernon,</hi> and <hi>Nor<g ref="char:EOLhyphen"/>man</hi> blood. Made thus a Wife, ſhe ſoon put in practice all thoſe Vertues which ſuch a Relation required from her. Such a Reſpect ſhe paid as Saint <hi>Paul</hi> commended to Chriſtian Women, that ſhould alſo increaſe to Reverence, and Obedience. Conſider<g ref="char:EOLhyphen"/>ing wiſely with her ſelf, that when the Wife once falters
+<pb n="21" facs="tcp:50328:16"/>
+from the Command of her Husband, ſtorms and tem<g ref="char:EOLhyphen"/>peſts invade the Family; and that her own, her Husbands, her Childrens, and her Friends happineſs, and quiet are not indangered only, but ſcat<g ref="char:EOLhyphen"/>tered into diſorders, worſe than Hell.</p>
+            <p>This Obedience ſhe looked upon as no hard Task, be<g ref="char:EOLhyphen"/>cauſe love aſſiſted, to bear the pleaſing burden. Her own, and Husbands Soul met in equal Poize; and the thoughts and deſires of the one, were the thoughts and deſires of the other. God made <hi>them</hi> two into one; and they were one in Judgment and in Will, and in Affection, and in Care.</p>
+            <p>
+               <pb n="22" facs="tcp:50328:17"/>
+And as Love made them ſo, Loyalty another of her Conjugal Vertues ſo kept them. The Husband inclo<g ref="char:EOLhyphen"/>ſed her to himſelf when he eſpouſed her with his Ring: his was the Right, and hers the Virtue to be only his.</p>
+            <p>Aſſiſtance alſo, one of thoſe ends, for which God made her Woman, and marriage a Wife ſhe gave to that emi<g ref="char:EOLhyphen"/>nent Degree, that it is not eaſy to reſolve, whether it was more for the Intereſt, or Honour of the <hi>Cavendiſh</hi> Family, that ſhe was united to it. For Sir <hi>Williams</hi> Fa<g ref="char:EOLhyphen"/>ther having married a ſecond Wife (which too common<g ref="char:EOLhyphen"/>ly brings diſadvantages to
+<pb n="23" facs="tcp:50328:17"/>
+the Children of the firſt Ven<g ref="char:EOLhyphen"/>ture) took not ſo much care, as he ought, of his Sons Con<g ref="char:EOLhyphen"/>cernments; nor made Al<g ref="char:EOLhyphen"/>lowances, ſuch as might ren<g ref="char:EOLhyphen"/>der him capable of living in that Dignity, requiſite for the Son of ſuch a Father, and the Husband of ſuch a Wife.</p>
+            <p>King <hi>James</hi> therefore ta<g ref="char:EOLhyphen"/>king notice of it, became himſelf an Advocate for the noble Pair: and amongſt o<g ref="char:EOLhyphen"/>ther things told the old Lord <hi>Cavendiſh,</hi> that his Son be<g ref="char:EOLhyphen"/>ing matched into a Family, for which he muſt be highly concerned, he would expect accordingly, that out of that plentiful Eſtate he himſelf
+<pb n="24" facs="tcp:50328:18"/>
+had, ſuch a Proportion be ſetled, that Sir <hi>William</hi> might bear up the Port of his Fa<g ref="char:EOLhyphen"/>thers Son, and his Lady the Quality of the Kings Kinſ<g ref="char:EOLhyphen"/>woman. This Mediation proved ſo effectual, that the Lord <hi>Cavendiſh</hi> did what the King thought reaſonable.</p>
+            <p>But this Addition though it anſwered the Kings; yet it did not riſe up to the Gene<g ref="char:EOLhyphen"/>roſities of the Sons mind; the greatneſs of which, (ha<g ref="char:EOLhyphen"/>ving in himſelf a noble diſ<g ref="char:EOLhyphen"/>dain to be limited to the Ex<g ref="char:EOLhyphen"/>pence of ſo many thouſands only) was the Occaſion of contracting a very great debt: which being entred into by an Exceſs of Gallantry; he could
+<pb n="25" facs="tcp:50328:18"/>
+not relieve himſelf from, when he had much a grea<g ref="char:EOLhyphen"/>ter Fortune than formely; but even when Earl of <hi>De<g ref="char:EOLhyphen"/>vonſhire,</hi> he rather increaſed it, by the Magnificence of his living both in Town, and Country, (his Houſe appear<g ref="char:EOLhyphen"/>ing rather like a Princes Court than a Subjects) for nothing but the greateſt Actions could anſwer the Heights of his nobler thoughts.</p>
+            <p>And if any Blame can be derived, from a Debt con<g ref="char:EOLhyphen"/>tracted by ſo generous an hand, and made yet greater, by a continuing, and grow<g ref="char:EOLhyphen"/>ing Generoſity, we ſhall ſee that not the leaſt Cenſure can light upon our Excellent
+<pb n="26" facs="tcp:50328:19"/>
+Lady. For beſides, that ſhe neglected all Delicacies, and came not near the leaſt Ex<g ref="char:EOLhyphen"/>ceſs, either of Games or Va<g ref="char:EOLhyphen"/>nity, (the uſual Conſumers of Eſtates) ſhe had alſo the greateſt Prudence, both in the Management, and to in<g ref="char:EOLhyphen"/>creaſe them when they fell under her own Oeconomy, as we ſhall ſee in the ſequel of this Narrative.</p>
+            <p>Her Lord dying about the year (27) though he left her a Dowry that for greatneſs (being near 5000 <hi>l.</hi> a year) might abundantly teſtifie his own extraordinary kindneſs, and her more than uſual Deſervings: yet the other Part of the Eſtate, de<g ref="char:EOLhyphen"/>ſcending
+<pb n="27" facs="tcp:50328:19"/>
+upon her Son, was ſo complicated with Law<g ref="char:EOLhyphen"/>ſuits, as muſt in the Re<g ref="char:EOLhyphen"/>demption, teſtifie her, to be a Woman of matchleſs Diſ<g ref="char:EOLhyphen"/>cretion, and of a Fortitude able to ſurmount all Oppo<g ref="char:EOLhyphen"/>ſition.</p>
+            <p>And to make publick thoſe Vertues, ſhe had many great and troubleſom Opportuni<g ref="char:EOLhyphen"/>ties during her Widowhood. The Suits in Law in which ſhe was left involved, were in number near thirty, and in their nature the moſt intri<g ref="char:EOLhyphen"/>cate: and what yet added more to her trouble, by the Cunning and Power of her Adverſaries, they were ren<g ref="char:EOLhyphen"/>dred as perplext difficult,
+<pb n="28" facs="tcp:50328:20"/>
+and tedious, as was poſſi<g ref="char:EOLhyphen"/>ble.</p>
+            <p>But to that Right, which was on her ſide, ſhe added Diligence and Reſolution; and by theſe, not only Ac<g ref="char:EOLhyphen"/>quitted her ſelf with the greateſt Bravery, but pre<g ref="char:EOLhyphen"/>vailed in them all to the high<g ref="char:EOLhyphen"/>eſt ſatisfaction. Such great Deeds, rendred her juſtly Fa<g ref="char:EOLhyphen"/>mous, inſomuch that the late King jeſtingly ſaid to her; Madam, You have all my Judges at your Diſpoſal: as what Courts would not be influenced by ſuch com<g ref="char:EOLhyphen"/>manding Charms, to do juſtice?</p>
+            <p>And yet ſhe would not Ar<g ref="char:EOLhyphen"/>rogate much of all this to
+<pb n="29" facs="tcp:50328:20"/>
+her ſelf; but would always (next to God) Attribute the Succeſs of her Undertakings, to the Care and Induſtry of her Brother the Earl of <hi>Elgin:</hi> who, beſides the moſt generous Inclinations, which he had; to aſſiſt the Diſtreſ<g ref="char:EOLhyphen"/>ſed, the rather undertook this troubleſome Province, that he might declare both to her ſelf, and the whole World, the extraordinary Kindneſs, he had for his Siſter; the dear Reſpects he bare to his deceaſed Brother in Law; and the tender Care he had for his young Ne<g ref="char:EOLhyphen"/>phew, the Earl of <hi>Devonſhire,</hi> that now is, being then, but nine years of Age.</p>
+            <p>
+               <pb n="30" facs="tcp:50328:21"/>
+But the Diſcharging the Eſtate, from thoſe numerous Law-ſuits, was not the only thing that required her Care: there was a great Debt alſo, which muſt take up her thoughts; and be another Specimen of her Trouble, as well as Prudence. Her Lord indeed, had before his Death, provided ſome Materials, by obtaining an Act of Parlia<g ref="char:EOLhyphen"/>ment, for cutting off an En<g ref="char:EOLhyphen"/>tail, in order to the ſale of Lands: a thing not uſual in thoſe times; and that then had not been effected, but for the ſakes of thoſe, for whom it was done; as the late King was pleaſed to ex<g ref="char:EOLhyphen"/>preſs it.</p>
+            <p>
+               <pb n="31" facs="tcp:50328:21"/>
+My Lord of <hi>Devonſhire</hi> had been a great ſpeaker; and much beloved, and admired, in both Houſes of Parliament, ſhe her ſelf alſo, a Lady of that Affability, and ſweet Addreſs; had beſides, ſo great a Wit, and Judgment of what was fit to be urged and done, that ſhe captivated many both of the Lords and Commons, who had in a manner Reſolved never to have conſented, to the Paſſing of ſuch a Bill.</p>
+            <p>But gained it was; though when obtained, it bore no Proportion, towards the Pay<g ref="char:EOLhyphen"/>ment of that vaſt Debt for which it was deſigned: how<g ref="char:EOLhyphen"/>ever, with what mony the
+<pb n="32" facs="tcp:50328:22"/>
+ſale of Lands brought in, to<g ref="char:EOLhyphen"/>gether with her own Care, and Management, (though with Difficulty enough) ſhe diſcharged the Debt. Ha<g ref="char:EOLhyphen"/>ving thus cleared the Eſtate for the Heir; her next Con<g ref="char:EOLhyphen"/>cern was, by the moſt gene<g ref="char:EOLhyphen"/>rous Education, to prepare her Son, that he might an<g ref="char:EOLhyphen"/>ſwer his great Fortune, and greater Name, by the nobleſt Actions.</p>
+            <p>For conſidering wiſely with her ſelf, that the good or evil condition of Chil<g ref="char:EOLhyphen"/>dren did not depend upon any kind Aſpects, or male<g ref="char:EOLhyphen"/>volent Configuration of Pla<g ref="char:EOLhyphen"/>nets at their Birth; or that they were made Fatally evil,
+<pb n="33" facs="tcp:50328:22"/>
+by any Original Neceſſity of being wicked; ſhe concluded that (next to Gods Grace) the beſt Impreſſes of Vertue ought to be ſtamped upon Children when they are young; if their Parents would have them Eminent in the Practice of it.</p>
+            <p>Upon theſe Reaſonings, our prudent Lady, (who both by her own Prince, and Strangers, was Reputed to live greater than any Sub<g ref="char:EOLhyphen"/>ject whatſoever, as to Hoſpi<g ref="char:EOLhyphen"/>tality, Reſort, and Retinue,) ſpared no coſt in Breeding the young Lord: who in his Minority, was maintain<g ref="char:EOLhyphen"/>ed both at Home, and in his Travels, beyond any of
+<pb n="34" facs="tcp:50328:23"/>
+his Quality; and by her Care inſtructed alſo, by ſuch Tu<g ref="char:EOLhyphen"/>tors, as could read to him, the moſt Accompliſhed Lect<g ref="char:EOLhyphen"/>ures, in all thoſe Sciences that muſt Render him, a perfect Gentleman.</p>
+            <p>Towards which that ſhe might give him the moſt in<g ref="char:EOLhyphen"/>viting Incouragements, to the Indulgencies of a Mother, ſhe added the Prudence of the Houſewife; and at the ſame time, ſhe was ſo expen<g ref="char:EOLhyphen"/>ſive in his Education; yet then and at other times by her frugality, made ſuch Purchaſes, which when ſhe died, added conſiderably to his Fortunes: becoming at once a Pattern of the largeſt
+<pb n="35" facs="tcp:50328:23"/>
+Generoſity, and ſtricteſt Houſwifry; and giving De<g ref="char:EOLhyphen"/>monſtrations to all of their mutual Conſiſtence. For when Courts, both Dome<g ref="char:EOLhyphen"/>ſtick and Forreign, did ad<g ref="char:EOLhyphen"/>mire the one; the moſt Parſimonious did confeſs that ſhe ſurpaſſed them in the o<g ref="char:EOLhyphen"/>ther.</p>
+            <p>But theſe extraordinary Actions her great Prudence, though conjoined with a Reſolution, not to be wea<g ref="char:EOLhyphen"/>ried out, could not have Ef<g ref="char:EOLhyphen"/>fected; if ſhe had not alſo with the moſt diſcreet, as well, as Chriſtian Forecaſt, wiſely proportioned the right Expence of Time. Her Mornings therefore, being
+<pb n="36" facs="tcp:50328:24"/>
+diſpoſed to Devotion, and the Houſhold Affairs; every day, after ſhe had firſt Ac<g ref="char:EOLhyphen"/>counted to God for her ſelf, ſhe then took the Accounts, even to the minuteſt Expen<g ref="char:EOLhyphen"/>ces, of what the preceding Day had conſumed.</p>
+            <p>But Prayers and pious Read<g ref="char:EOLhyphen"/>ings were her firſt Buſineſs; Vertues almoſt natural to the Sex: the devout Sex, the Fa<g ref="char:EOLhyphen"/>thers call it; as if the very Inclinations, of Women, were to Religion; to teach them, how much they degenerate from themſelves, even from Women, when they grow impious. They are the Beauties of this lower world; Natures ſweeteſt Pride; and
+<pb n="37" facs="tcp:50328:24"/>
+               <hi>Grace,</hi> though it ſprings not out of Natures Garden, yet it often is tranſplanted thi<g ref="char:EOLhyphen"/>ther, as the apteſt Soil to nouriſh it.</p>
+            <p>The ſofteſt, Natures are u<g ref="char:EOLhyphen"/>ſually the moſt pliant; re<g ref="char:EOLhyphen"/>ceive the motions of Heaven with the moſt ready willing<g ref="char:EOLhyphen"/>neſs; and the ſofteſt Natures uſually are Women; and Devotion takes firſt, and ſureſt Root, in their tender Breaſts. And well Radicated it was in hers we are ſpeak<g ref="char:EOLhyphen"/>ing of; for though none managed Family Affairs, with more Care, than ſhe; yet al<g ref="char:EOLhyphen"/>ways God was preferred to buſineſs, <hi>him</hi> firſt ſerved, and then <hi>that</hi> was attended.</p>
+            <p>
+               <pb n="38" facs="tcp:50328:25"/>
+The Remainders of the Day were determined to her Friends; in the Entertainment of whom, her Converſation was ſo tempered with Court<g ref="char:EOLhyphen"/>ſhip, and Heartineſs; her Diſcourſes, ſo ſweetened, with the Delicacies of Expreſſion, and Harmony of Reaſon; that ſuch as did not well know the Expence of her Time, would have thought, ſhe had imployed it all, in Addreſs, and Dialouge.</p>
+            <p>In both which ſhe exceed<g ref="char:EOLhyphen"/>ed moſt Ladies; and yet ne<g ref="char:EOLhyphen"/>ver affected the Title of a Wit; carried no ſnares in her Tongue; nor counterfeited Friendſhips; maintained no Paradoxes or imperious Diſ<g ref="char:EOLhyphen"/>putes;
+<pb n="39" facs="tcp:50328:25"/>
+and as ſhe was never known to ſpeak evil of any, ſo neither would ſhe indure to hear it, from any, of o<g ref="char:EOLhyphen"/>thers; reckoning it not only a Vice againſt good man<g ref="char:EOLhyphen"/>ners, but the greateſt Inde<g ref="char:EOLhyphen"/>cency alſo, in the Entertain<g ref="char:EOLhyphen"/>ment of Friends, to ſpend the time in uſeleſs talkings, and calumnies, and therefore always kept her ſelf within the meaſures of Civility, and Religion; from whence, her Converſation was wiſe, and profitable, witty, and in<g ref="char:EOLhyphen"/>nocent; and in her lips, the very Law of kindneſs, and ſweetneſs of Language.</p>
+            <p>Her Geſtures correſponded to her Speech; no giddy
+<pb n="40" facs="tcp:50328:26"/>
+head or proud Eyelids, no haughty Brow, or perplexed Countenance; but of a free, native, genuine, and graceful Behaviour; as far from af<g ref="char:EOLhyphen"/>fected, and extraordinary Mo<g ref="char:EOLhyphen"/>tions, as <hi>they</hi> from Diſcre<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Theſe admirable Qualities drew to her Houſe all the beſt Company, towards whom, ſhe had ſo eaſy, and ſuch an obliging Addreſs, without the leaſt Allay of Levity, or Diſdain, that every one departed with the high<g ref="char:EOLhyphen"/>eſt ſatisfaction; ſhe ever di<g ref="char:EOLhyphen"/>ſtributing her reſpects accord<g ref="char:EOLhyphen"/>ing to the Quality, and me<g ref="char:EOLhyphen"/>rit of each: ſteering the ſame ſteady courſe in the Coun<g ref="char:EOLhyphen"/>try
+<pb n="41" facs="tcp:50328:26"/>
+alſo; between which, and the Town, ſhe commonly di<g ref="char:EOLhyphen"/>vided the year.</p>
+            <p>Her Country Seats, were many, and noble; ſome of which when her Son came of Age, ſhe delivered up to him: <hi>(viz.)</hi> his great Houſes in <hi>Darbyſhire,</hi> all ready fur<g ref="char:EOLhyphen"/>niſhed; ſhe her ſelf, living in that, of <hi>Leiceſter</hi> Abbey; (near to which ſhe had purchaſed a conſiderable Eſtate) until the Rebellion broke out.</p>
+            <p>Then it was, that the Edu<g ref="char:EOLhyphen"/>cation which ſhe had given her Sons, began to expreſs it ſelf, by the moſt gene<g ref="char:EOLhyphen"/>rous demonſtrations; both of them adhering faithfully to the Crown: for that Care
+<pb n="42" facs="tcp:50328:27"/>
+which the Mother took, to ſeaſon them at firſt with the juſt Tincture of all private and publick Vertues, prepa<g ref="char:EOLhyphen"/>red them to give the moſt ſignal Teſtimonies, of their Loyalty and Valour, upon the firſt opportunities.</p>
+            <p>The Earl of <hi>Devonſhire</hi> her Elder Son, made an early Expreſs of the ſevereſt Loyalty, mixed with the no<g ref="char:EOLhyphen"/>bleſt Reſolution, in that fa<g ref="char:EOLhyphen"/>mous Occaſion of the Earl of <hi>Straffords</hi> Bill, and many others; being then firm to the true Intereſt of his Prince and Country, when many others Relinquiſhed their Poſts, out of ſiniſter Ends; or were Affrighted from them by Popular Clamors.</p>
+            <p>
+               <pb n="43" facs="tcp:50328:27"/>
+But this noble Lord, ha<g ref="char:EOLhyphen"/>ving an undaunted Inte<g ref="char:EOLhyphen"/>grity, and a mind clear ſighted, the <hi>one,</hi> made him, conſider his Dignity, as an Obligation of Conſcience, not to deliver a <hi>Peer</hi> to the Block, to quench the thirſt only of Bloud, and Ambiti<g ref="char:EOLhyphen"/>on; or ſatisfie a State neceſſi<g ref="char:EOLhyphen"/>ty: the <hi>other</hi> aſſured him, what would be the fatal con<g ref="char:EOLhyphen"/>ſequences to the King, and Nation; and therefore would not Vote to the Acting of ſuch a Crime, which intro<g ref="char:EOLhyphen"/>duced the ruin of them both; and which too in the Opi<g ref="char:EOLhyphen"/>nion of the Lords Houſe made the very Record of it to be Razed out of their Journals.</p>
+            <p>
+               <pb n="44" facs="tcp:50328:28"/>
+From whence we may ſee alſo, what Eſtimation that Honourable Houſe had, for thoſe noble Parſonages who conſented not to that unhap<g ref="char:EOLhyphen"/>py Vote; Eternizing their Names for Stateſmen of Con<g ref="char:EOLhyphen"/>ſcience and Courage.</p>
+            <p>Amongſt whom the Earl of <hi>Devonſhire,</hi> ought to be in the foremoſt Liſts, pro<g ref="char:EOLhyphen"/>ceeding in all his Actions, with marveilous Freedom, and Integrity; concluding, that to be an ill Method of preſerving Commonwealths by deſtroying Kingdoms.</p>
+            <p>That man certainly is the braveſt Courtier, as well as Chriſtian, who to the Serpents ſubtilty, joyns the Doves In<g ref="char:EOLhyphen"/>nocence;
+<pb n="45" facs="tcp:50328:28"/>
+and will not be brought under the Tyranny of Paſſion, or ſelf-intereſt. And ſo well this Noble Lord was fortified againſt all ſurpriſes from theſe mean, and miſcheivous Principles; that in all publick concerns, he directed his courſe by the Rules of Honour, and Juſtice; which ſecure the moſt laſting and certain Advantages to all Kingdoms.</p>
+            <p>And let the Events of ho<g ref="char:EOLhyphen"/>neſt Prudence, be what they will, yet the Obſervation, is every Stateſmans nobleſt Cha<g ref="char:EOLhyphen"/>racter. That Councellor is a <hi>Cyclops,</hi> without an Eye, who thinks to ſecure the greateſt Intereſts of Government, by
+<pb n="46" facs="tcp:50328:29"/>
+Caballing with Faction, or laying Stratagems for his own Grandure upon the deſtructi<g ref="char:EOLhyphen"/>on of great Favourites: for every man ſees through this Diſguiſe, and finds under it a diſſembling of their Pride, and Revenge, Envy, and a deſire of Preheminence: and it is not ſo much a remo<g ref="char:EOLhyphen"/>ving the Kings Enemies out of the way, as their own Rivals.</p>
+            <p>But nothing could tempt our brave Lord to a diſho<g ref="char:EOLhyphen"/>neſt Action; nor to preſerve himſelf, but together with his Reputation; choſe Sequeſtra<g ref="char:EOLhyphen"/>tion rather than to prevaricate in the leaſt title from Chriſtian Fortitude, and Nobleneſs; or
+<pb n="47" facs="tcp:50328:29"/>
+to change his Propoſitions ac<g ref="char:EOLhyphen"/>cording to the Neceſſities, or Advantages of the Seaſon. For when ever Loyalty, and Religion, were the Queſtion, he always choſe to partici<g ref="char:EOLhyphen"/>pate in the common Calami<g ref="char:EOLhyphen"/>ties of the Orthodox, and the Brave; Riding ſafely, in that Storm, which Daſhed others to pieces, upon the Plank of Innocence, and ſuffering: nor would he at laſt have been prevailed with to remove any part of his Troubles; or the Sequeſtration from his Eſtate, but by the Importu<g ref="char:EOLhyphen"/>nity; or rather the Com<g ref="char:EOLhyphen"/>mands of his Mother; De<g ref="char:EOLhyphen"/>teſting in it ſelf what in Duty to her he complied with.</p>
+            <p>
+               <pb n="48" facs="tcp:50328:30"/>
+But I muſt not pretend to his juſt Character; thinking it better to paſs it over in ſilence and with veneration: he being alſo of that Gallan<g ref="char:EOLhyphen"/>try of mind, that though he delights in great things he does not care to hear of them.</p>
+            <p>Leave howſoever I may take, to make it up, from the younger Son, of our La<g ref="char:EOLhyphen"/>dy, <hi>Colonel Charles Cavendiſh;</hi> a Perſon that equalled the braveſt of his time in the Accompliſhments both of mind, and body; which as they rendred him the delight of all that knew him, ſo too the moſt favoured by his Prince.</p>
+            <p>
+               <pb n="49" facs="tcp:50328:30"/>
+And not without juſt Rea<g ref="char:EOLhyphen"/>ſon; for he was a Gentle<g ref="char:EOLhyphen"/>man ſo furniſhed with all the interior, and politer parts of Learning, (obtained at home and abroad, both by reading Books, and Men,) as well as Courage; that he was prepared to defend his Prince, with his head and hand; by the ſtrongeſt Rea<g ref="char:EOLhyphen"/>ſon, and moſt generous Va<g ref="char:EOLhyphen"/>lour.</p>
+            <p>Of both which, he gave ſuch great, and glorious In<g ref="char:EOLhyphen"/>ſtances; that thoſe brave Gentlemen of the <hi>Temple,</hi> who offered themſelves as a Guard to the Royal Perſon of the late King (in the firſt breaking out of thoſe Tu<g ref="char:EOLhyphen"/>mults
+<pb n="50" facs="tcp:50328:31"/>
+which uſhered in the Rebellion) choſe him for their Captain; knowing he would thither lead them, where Law, Honour, and Conſcience, would oblige them to follow.</p>
+            <p>A Gentleman that made the true Figure, both of Va<g ref="char:EOLhyphen"/>lour, and Vertue; that car<g ref="char:EOLhyphen"/>ried forth, his Arms (with the firſt,) under the Standards of Loyalty; and for the ſame reaſon, they ought to be hung up in the Temple of Glory. The Profeſſion of Arms in his caſe, was the moſt renowned, marching with the Hoſts of God and the King; and he eſteemed himſelf more innobled by
+<pb n="51" facs="tcp:50328:31"/>
+the bloud, he loſt for his Prince, and Country, than by that he drew from the loins, of his Progenitors.</p>
+            <p>And indeed being excited by ſo generous a Deſign, as to Cement the Breaches that were made upon Mo<g ref="char:EOLhyphen"/>narchy, (though with his bloud,) he did ſuch things in War, as increaſed the Palms and Crowns, which had long invironed the heads of his Predeceſſors; and ſeem<g ref="char:EOLhyphen"/>ed to be the Perſon, reſerved by Heaven to Finiſh the Ho<g ref="char:EOLhyphen"/>nors of his Family.</p>
+            <p>Many eminent Actions he performed for his Prince in the late Rebellion: and one particularly in the ſight of
+<pb n="52" facs="tcp:50328:32"/>
+the Queen, (which is to be a Trophey to his memory) as ſhe was coming from <hi>Burlington</hi> (where ſhe landed) to <hi>Oxford.</hi> He took <hi>Burton</hi> upon <hi>Trent</hi> by Storm; in<g ref="char:EOLhyphen"/>couraging his Souldiers, by his own example to ſwim over; where you might have ſeen him, under ſhowers of Bullets, defye all the moſt dreadful Images of death, and with ſuch a Reſolution ſcale the Works beſet with Arms and Terrours, as if his Life had been as Immortal, as he hath made his Honour.</p>
+            <p>And it is not the leaſt part of his fighting Glory, that it could never have been ta<g ref="char:EOLhyphen"/>ken from his head, but by
+<pb n="53" facs="tcp:50328:32"/>
+ſuch baſe men, who added Treachery, to their Treaſon, murdering him in cold blood, near <hi>Gainsburrough,</hi> after Quarter given, by <hi>Colonel Bury;</hi> who made himſelf dear to the Uſurper, <hi>Cromwel,</hi> by this, and ſome other Acts of Cruelty.</p>
+            <p>But the memory of Colonel <hi>Cavendiſh</hi> could not thus be deſtroyed; nor his Eſteem; for when his Body was brought to <hi>Newark</hi> to be in<g ref="char:EOLhyphen"/>terred, the whole Town was ſo fond of it, (even dead) that they would not ſuffer it, for ſome days to be laid into the Ground, but wept over it, and admired it, and not without the greateſt Re<g ref="char:EOLhyphen"/>luctancy,
+<pb n="54" facs="tcp:50328:33"/>
+at laſt committed him to his Dormitory; co<g ref="char:EOLhyphen"/>vering the Hears with Tears and Laurels; nay and about Thirty years after, when his body was removed to be interred at <hi>Darby,</hi> with his Mother, freſh lamentations were made by thoſe that knew, and others that had heard his Fame; and the whole People of <hi>Newark</hi> ex<g ref="char:EOLhyphen"/>preſſed, the moſt ſorrowful unwillingneſs, to part with the Reliques of ſo dear a Perſon, who had been, when alive, the Ornament and De<g ref="char:EOLhyphen"/>fence of that Place.</p>
+            <p>But ſit it was he ſhould be laid as near as poſſible to his indulgent Mother, becauſe
+<pb n="55" facs="tcp:50328:33"/>
+his death, came neareſt her heart, of any affliction God was pleaſed to try her Pati<g ref="char:EOLhyphen"/>ence with. And indeed but for his loſs, and that of her only Daughter, the Lady <hi>Rich,</hi> Daughter-in-Law to the Earl of <hi>Warwick,</hi> ſhe had an uninterrupted Proſperity during the whole time of her Widowhood; abating alſo her great Concern, for thoſe common Calamities, which befel her ſelf, together with the King and Church.</p>
+            <p>But it cannot be imagined what grief ſeized her Spirits, upon the death of two ſuch Children: it being the hard<g ref="char:EOLhyphen"/>eſt Conteſt that ever was ſeen, (as thoſe obſerved that were
+<pb n="56" facs="tcp:50328:34"/>
+preſent with her,) between a Maternal Affection and Magnanimity of mind. And though by Reaſon and Reli<g ref="char:EOLhyphen"/>gion, ſhe reſtrained her Paſſi<g ref="char:EOLhyphen"/>on from breaking out into a Tempeſt; yet ſhe had ſunk under the Preſſure of her dolours, if ſhe had not (next to thoſe ſupports, which ſhe received from Heaven) had great comforts, from the com<g ref="char:EOLhyphen"/>pany, and pious Aſſiſtances of her Brother the Earl of <hi>Elgin,</hi> who ſtirred not from her, on both theſe ſad Occa<g ref="char:EOLhyphen"/>ſions, her Son the Earl of <hi>De<g ref="char:EOLhyphen"/>vonſhire,</hi> being young, when under the former, and at too great diſtance, when under the later of theſe Tryals.</p>
+            <p>
+               <pb n="57" facs="tcp:50328:34"/>
+That worthy Daughter of hers, (whoſe death gave a great part of theſe ſorrows) was whilſt alive the nobleſt Tranſcript of her Mothers Vertues: and for that reaſon became the Darling of the Family, ſhe was matched in<g ref="char:EOLhyphen"/>to, as well as her own.</p>
+            <p>A Lady, of that compre<g ref="char:EOLhyphen"/>henſive and known Good<g ref="char:EOLhyphen"/>neſs; that her very Name is a ſufficient Character; nor dare I venture, at any other; it being indeavoured by the Wits, and Orators of her own time; my Lord <hi>Faukland,</hi> Mr. <hi>Waller,</hi> Mr. <hi>Godolphin,</hi> and others.</p>
+            <p>However, I may Re<g ref="char:EOLhyphen"/>marque ſo far: That though
+<pb n="58" facs="tcp:50328:35"/>
+ſhe was a Lady, that might derive Honour from the Greatneſs of her Bloud, ſhe rather choſe to do it by the worthineſs of her Acti<g ref="char:EOLhyphen"/>ons; her Wit and Diſcretion kept equal meaſures; and her freedom of converſation, was bounded with modeſty; ſhe had a great mind, with<g ref="char:EOLhyphen"/>out diſdain; the ſweeteſt Meen, but not without Ma<g ref="char:EOLhyphen"/>jeſty: and in ſum; every thing ſhe ſaid, or did, like her ſelf, fair and tranſcending, and what became a Daugh<g ref="char:EOLhyphen"/>ter of the Counteſs of <hi>De<g ref="char:EOLhyphen"/>vonſhire.</hi>
+            </p>
+            <p>To whom it is time, to re<g ref="char:EOLhyphen"/>turn; and we ſhall now find her in the exaltation of her
+<pb n="59" facs="tcp:50328:35"/>
+Vertues: for towards the la<g ref="char:EOLhyphen"/>ter end of the Rebellion, ſpending ſome part of her time at <hi>Greenwich,</hi> the deplora<g ref="char:EOLhyphen"/>ble condition of the King, and Church, which had lain for a long time heavy upon her thoughts, ſet her mind into the nobleſt Ferment; and <hi>that</hi> produced the moſt vi<g ref="char:EOLhyphen"/>gorous Reſolutions, at leaſt, of endeavouring, with her utmoſt skill, and diligence, the Recovery of her Prince, and the Nation from thoſe Uſurpations that were upon his Crown, and their Liber<g ref="char:EOLhyphen"/>ties, by an inſolent, hypo<g ref="char:EOLhyphen"/>critical and ill natured Party.</p>
+            <p>And a fair Proſpect ſhe apprehended there was, of
+<pb n="60" facs="tcp:50328:36"/>
+effecting this brave Under<g ref="char:EOLhyphen"/>taking, (the Projecting of which was the Enamel and Beauty, of all her other Deeds) becauſe <hi>Devereux,</hi> Earl of <hi>Eſſex,</hi> and the Earl of <hi>Holland,</hi> ſeemed at this time, deſirous to expiate their former Crimes, by ſuch a Repentance, as ſhould make full reſtitution to the King and People by returning Him to his Dignity, and them to their Freedom.</p>
+            <p>To which glorious De<g ref="char:EOLhyphen"/>ſigns, they were not a little invited by her carneſt ſolici<g ref="char:EOLhyphen"/>tations; and very much in<g ref="char:EOLhyphen"/>couraged by her Prudence: and in which <hi>Eſſex</hi> had given the ſureſt Demonſtration of
+<pb n="61" facs="tcp:50328:36"/>
+his loyal Purpoſes, had not Death prevented him in the end of the year Forty ſix.</p>
+            <p>The Presbyterian Faction in general, that firſt fomented, and ſtill carried on this un<g ref="char:EOLhyphen"/>natural Rebellion, beginning the War in the name of God, would not put an end to it, neither for his ſake, nor the Kings: having other Appre<g ref="char:EOLhyphen"/>henſions and making other Advantages of the Kings, and Churches ſufferings; For be<g ref="char:EOLhyphen"/>cauſe God was pleaſed to make <hi>them</hi> the Crucifiers of his People, they ſupported their Perſons and their Pre<g ref="char:EOLhyphen"/>tenſes by their ſucceſſes; and reckoning their own Chriſti<g ref="char:EOLhyphen"/>anity from their Victories,
+<pb n="62" facs="tcp:50328:37"/>
+would not allow either the King, or his Cauſe to be ſo much as Chriſtian: for they themſelves are the men that were Fortunate, and Proſpe<g ref="char:EOLhyphen"/>rous, and therefore had the Baſeneſs, as well as ignorance to declare that they were ſetting up Chriſts Kingdom, (though by the breach of all his Commandments) be<g ref="char:EOLhyphen"/>ing ſuffered by Heaven to ſa<g ref="char:EOLhyphen"/>tisfie their luſt, ambition and revenge upon the Crown, and Mitre.</p>
+            <p>A Principle, that equally ſerves, <hi>Presbitery</hi> and <hi>Mahu<g ref="char:EOLhyphen"/>metiſm;</hi> for we have ſeen the Grand <hi>Segnior</hi> to prevail upon a great part of Chriſten<g ref="char:EOLhyphen"/>dom, and to have made both
+<pb n="63" facs="tcp:50328:37"/>
+the Kings and Biſhops of the Eaſtern Churches his Slaves and Tributaries; and yet <hi>he</hi> is proſperous: hence the <hi>Sul<g ref="char:EOLhyphen"/>tans</hi> of each Party do agree, that every thing is Right, that is Fortunate; and what miſchief both the <hi>Turk</hi> and the <hi>other,</hi> have wrought to Chriſtian Princes the whole World can tell; or what hopes there may be to find Penitents, amongſt ſuch men who will declare a Prevaling Villain, to be Gods General, the <hi>next</hi> Age muſt expect, for we can find but very few in <hi>this.</hi>
+            </p>
+            <p>The Generoſity indeed of <hi>Eſſex,</hi> ought to have its due allowance, and commenda<g ref="char:EOLhyphen"/>tion;
+<pb n="64" facs="tcp:50328:38"/>
+and the rather, becauſe even after all his ſucceſſes, he ſaw the Error of his Arms; and the Kings Right did then appear to him, when he had triumphed over all his Power. But he could live no longer than only to ſee his Faults; and it may be, his being infected with Loyalty was the Poiſon that diſpatched him.</p>
+            <p>
+               <hi>Eſſex</hi> being dead, the <hi>Ja<g ref="char:EOLhyphen"/>nizaries</hi> of the Rebel Army, by the baſeſt Treachery, and Violence, ſoon made them<g ref="char:EOLhyphen"/>ſelves Maſters of the Kings Perſon: and carrying him from place to place, whether they pleaſed; brought him to <hi>Latimers;</hi> where our noble
+<pb n="65" facs="tcp:50328:38"/>
+Lady happening then to be with her Son the Earl of <hi>De<g ref="char:EOLhyphen"/>vonſhire,</hi> his Majeſty had much private Conſultation with her concerning the State of his Affairs; and at the ſame time expreſſed both to her, and the Earl, the great ſenſe, he had of the faithful Services they had done him.</p>
+            <p>The latter end of that year, increaſing the Kings troubles and the conſideration of his, multiplying her own; be<g ref="char:EOLhyphen"/>ing much depreſſed in mind, with ſuch a load of publick Calamities, ſhe would try if Privacy might give eaſe to any part of her Sorrows: re<g ref="char:EOLhyphen"/>tire therefore ſhe did to her Brothers, the Earl of <hi>Elgins</hi>
+               <pb n="66" facs="tcp:50328:39"/>
+Houſe at <hi>Ampthill;</hi> a place, if any in the world, (next to her Sons) that could com<g ref="char:EOLhyphen"/>poſe her diſtracted thoughts; and the only means, ſhe could then think on, to give any tolerable comfort, un<g ref="char:EOLhyphen"/>der thoſe circumſtances of the Kings, and her own Af<g ref="char:EOLhyphen"/>flictions.</p>
+            <p>And thither ſhe was the rather invited, by that unpa<g ref="char:EOLhyphen"/>rallelled kindneſs that ever had been, between her ſelf and Brother; the extraordi<g ref="char:EOLhyphen"/>nary love, ſhe bare to his Lady the Counteſs of <hi>Oxford;</hi> and the dear Reſpects, ſhe had alſo, for her Nephew, the Lord <hi>Bruce,</hi> his Lady, and Children.</p>
+            <p>
+               <pb n="67" facs="tcp:50328:39"/>
+Here, as ſhe would always acknowledge to her death, ſhe both lightned her griefs, and her expences, and at this time, (during her three years ſtay there) ſhe became Mi<g ref="char:EOLhyphen"/>ſtris of thoſe Riches, which her Retirement gave her op<g ref="char:EOLhyphen"/>portunity to gather.</p>
+            <p>For when at home her ex<g ref="char:EOLhyphen"/>pences in the nobleſt Houſe<g ref="char:EOLhyphen"/>keeping, and the moſt gene<g ref="char:EOLhyphen"/>rous Charity, kept equal mea<g ref="char:EOLhyphen"/>ſures with her Incomes, and her Goodneſs ſo vied her Huſ<g ref="char:EOLhyphen"/>wifry, that ſhe could ſcarce tell how to lay up mony ſo long as ſhe had a friend to entertain, or any in diſtreſs to relieve. For Charity was one of her dear Delights;
+<pb n="68" facs="tcp:50328:40"/>
+nor would ſhe ſtay for, but find out Opportunities; though indeed ſhe lived in ſuch times, that afforded dayly Objects for her ten<g ref="char:EOLhyphen"/>dereſt Compaſſions.</p>
+            <p>The War had made Loy<g ref="char:EOLhyphen"/>alty poor; and Sequeſtrati<g ref="char:EOLhyphen"/>ons upon the Prieſts of God, had reduced the Clergy to ſuch lamentable wants, that they had nothing left to cloath them, but their own Righteouſneſs; nor any thing to feed on, but a good Con<g ref="char:EOLhyphen"/>ſcience, and their paſſive Ver<g ref="char:EOLhyphen"/>tues.</p>
+            <p>Here our noble Lady ſaw, and pitied; and as ever ſhe had been the Defender, ſo now ſhe became the ſuccou<g ref="char:EOLhyphen"/>rer
+<pb n="69" facs="tcp:50328:40"/>
+of the Righteous Cauſe; Fed, and Cloathed, and Com<g ref="char:EOLhyphen"/>forted all, that lived within the Vicinage of her Charity; and as one Act of goodneſs creates Appetites after others; ſo neither could her Deſires be ſatisfied with the next oc<g ref="char:EOLhyphen"/>caſions for her Bounty, but ſhe ſought abroad, and diffu<g ref="char:EOLhyphen"/>ſed it round the Nation, and beyond it alſo, to ſuch as were made poor for Gods ſake, and the Kings.</p>
+            <p>And in this, ſhe had a pe<g ref="char:EOLhyphen"/>culiar Generoſity, for though ſhe would give with both hands to the loyal Sufferers yet ſhe would not indure it ſhould be reckoned as an Alms, but rather as a juſt
+<pb n="70" facs="tcp:50328:41"/>
+Debt to them, out of her A<g ref="char:EOLhyphen"/>bundance.</p>
+            <p>And God was pleaſed to invite her forward, to keep the Fountains of her Noble<g ref="char:EOLhyphen"/>neſs, and Charity, continually open, by the greateſt incou<g ref="char:EOLhyphen"/>ragements: for as ſhe laid up Riches in Heaven, by her mighty Expence, in the Acts of mercy; ſo thoſe waters upon which ſhe caſt her bread returned with ſuch Fertility and Increaſe, that ſhe became Owner of larger Poſſeſſions upon Earth; and collected mony, and Bleſſing by her Diſperſions to the Poor. Re<g ref="char:EOLhyphen"/>moving in the year 50 to that pleaſant ſeat of <hi>Rohamp<g ref="char:EOLhyphen"/>tom</hi> in <hi>Surry;</hi> ſhe had not
+<pb n="71" facs="tcp:50328:41"/>
+lived much above a year in it, ere it became her own by Purchaſe.</p>
+            <p>And now began again the uſual Reſort of her former friends, and her own mag<g ref="char:EOLhyphen"/>nificent way of living: which ſhe improved not only to raiſe to her ſelf the Me<g ref="char:EOLhyphen"/>moirs of a private Greatneſs, but a Name of everlaſting Honour, for her concerns in the Publick good.</p>
+            <p>Hence ſhe took opportuni<g ref="char:EOLhyphen"/>ty from ſuch loyal Perſons as frequented her Houſe, to diſcourſe with, and perſwade them, to the moſt Active in<g ref="char:EOLhyphen"/>deavours for the Kings Re<g ref="char:EOLhyphen"/>ſtauration: and her Coun<g ref="char:EOLhyphen"/>ſels in this buſineſs, as they
+<pb n="72" facs="tcp:50328:42"/>
+were the moſt Prudent, and ſteady; ſo neither could any to whom ſhe communicated them, ſcruple in the leaſt, their own joyning in ſuch honourable Deſigns, becauſe they ſaw that ſhe invited and incouraged, her neareſt Rela<g ref="char:EOLhyphen"/>tions, into the ſame generous Hazards.</p>
+            <p>For during her abode at <hi>Amphthill,</hi> ſhe had continual Correſpondencies with ſuch Perſons, both in <hi>England,</hi> and <hi>Scotland,</hi> as ſhe found would aſſiſt to the reſettlement of the King, and the Recovery of the Church, and State, from thoſe thraldoms, under which they both groaned.</p>
+            <p>
+               <pb n="73" facs="tcp:50328:42"/>
+To this end, many Letters paſſed between her, and Duke <hi>Hamilton,</hi> the Earls of <hi>Hol<g ref="char:EOLhyphen"/>land</hi> and <hi>Norwich,</hi> (that <hi>Nor<g ref="char:EOLhyphen"/>wich,</hi> who was General of thoſe Forces raiſed by <abbr>Esq</abbr> 
+               <hi>Hales</hi> in <hi>Kent)</hi> and many others of eminent conduct: which Letters were both writ<g ref="char:EOLhyphen"/>ten, and received in Cha<g ref="char:EOLhyphen"/>racters; in the writing and opening of which ſhe in<g ref="char:EOLhyphen"/>truſted none but her Ne<g ref="char:EOLhyphen"/>phew, the Lord <hi>Bruce</hi> (now Earl of <hi>Ailesbury)</hi> and her Chaplain, Mr. <hi>Gale.</hi>
+            </p>
+            <p>Her Nephew, though too young to be concerned in the firſt War, did as ſoon as poſſible give the nobleſt De<g ref="char:EOLhyphen"/>monſtrations, what he would
+<pb n="74" facs="tcp:50328:43"/>
+have done then by his inga<g ref="char:EOLhyphen"/>ging in the Kings Cauſe, im<g ref="char:EOLhyphen"/>mediately upon his Return from his Travels in the year 56.</p>
+            <p>He had indeed that Part of Felicity, which the Orator eſteemed to be one of the braveſt Portions of the Cha<g ref="char:EOLhyphen"/>racter of <hi>Conſtantine</hi> the Great <hi>(viz.)</hi> to be born happy: and our Lady therefore conſider<g ref="char:EOLhyphen"/>ing his very Extraction, as his great Ingagement to the Crown; and finding him pre<g ref="char:EOLhyphen"/>pared by his Principles, as well as Birth, to do every thing that ſhould be to the reputation of both; though he was as dear to her, as one of her eyes, yet ſhe would have him, put
+<pb n="75" facs="tcp:50328:43"/>
+his Perſon, and his Fortunes, into the ſame bottom with <hi>Caeſar,</hi> and either ſtem the ſtorm of Tyranny, or ſuffer ſhipwreck: from which it was only the Divine Provi<g ref="char:EOLhyphen"/>dence, that delivered him; he being once, in the hands of <hi>Cromwel</hi> his Major General; men thirſty enough of ſuch loyal Bloud.</p>
+            <p>But he had given himſelf to the publick, and therefore conſidered not his own con<g ref="char:EOLhyphen"/>cerns in the leaſt, when the ſervices of the King and Church, called him forth, to the greateſt dangers: and en<g ref="char:EOLhyphen"/>tring upon his Duty, with ſuch brave intentions, and without the leaſt mixture of
+<pb n="76" facs="tcp:50328:44"/>
+baſe, and mercenary ends, God was pleaſed to deliver him from great Diſaſters, and to bleſs his purpoſes, by ſee<g ref="char:EOLhyphen"/>ing that King and that Re<g ref="char:EOLhyphen"/>ligion reſtored, which are <hi>both</hi> the beſt in the whole World. And though the glory of this muſt be wholly aſcribed to Heaven; yet God was pleaſed to prepare a way to his own deſigns by the vigorus, and reſtleſs endeavours of the loyal and orthodox Lords, and Gentry; for could Theſe have been ſeduced, to have complemented, and addreſſed to <hi>Cromwel,</hi> and his Son, as it is notorious all others but thoſe of the Church of <hi>En<g ref="char:EOLhyphen"/>gland</hi> did; it had in humane
+<pb n="77" facs="tcp:50328:44"/>
+ſpeaking been the moſt pro<g ref="char:EOLhyphen"/>bable eſtabliſhment of the U<g ref="char:EOLhyphen"/>ſurpation. But our Church reſtrains, as from Aſſiſting, ſo likewiſe from wiſhing well to an Uſurper; both which all the World knows, the whole Faction did. It is well therefore for Monarchy and the Church of <hi>England,</hi> that they have ſuch ſure and con<g ref="char:EOLhyphen"/>ſtant Friends, as this noble Lord I am ſpeaking of; who was not only, induſtrious in their Reſettlement, but has been as great an Inſtrument ever ſince of their mutual preſervation.</p>
+            <p>It is not unknown to any, how both the Crown, and Church, have been Deſerted
+<pb n="78" facs="tcp:50328:45"/>
+in their Neceſſities, when they moſt wanted the Conſtancy and Fortitude, of thoſe, that ſeemed to be faſt Friends, to each, in their proſperous days; but even then, when it was a popular Crime, to be juſt and loyal, this noble Lord ſtood as firm as a Rock; having ſuch a greatneſs, as well as ſteadineſs of mind; that no Flatteries could charm, no Importunities force, or Dangers terrifie, either to the doing, or ſo much as conſenting, to any Evil to the Government; or making one falſe ſtep from the cloſeſt and moſt fixed Rules of Honour and Ju<g ref="char:EOLhyphen"/>ſtice.</p>
+            <p>
+               <pb n="79" facs="tcp:50328:45"/>
+And one thing more, I muſt take leave to add; that it is impoſſible, his Loyalty and Religion ſhould ever lan<g ref="char:EOLhyphen"/>guiſh or faint, they not at all depending upon the nouriſh<g ref="char:EOLhyphen"/>ments of Ambition or Ava<g ref="char:EOLhyphen"/>rice, but reſuming new vi<g ref="char:EOLhyphen"/>gours continually from the ſource of his own Ver<g ref="char:EOLhyphen"/>tues.</p>
+            <p>In <hi>theſe things,</hi> He was our Excellent Ladies Relative as well as by Blood; nor was her Loyalty without its hazards. For though her Actings were not thorowly diſcovered, yet ſo much ſuſpected they were, by the then uſurped Powers, that a Troop of Horſe, had
+<pb n="80" facs="tcp:50328:46"/>
+been ſent down to fetch her up from <hi>Ampthill,</hi> (about the ſame time, that the Counteſs of <hi>Carliſle</hi> was put into the Tower) had not her Gold<g ref="char:EOLhyphen"/>ſmith, (a Confident of the Rebells) given a Bribe to one of the then Council of State, whoſe great Licentiouſneſs, and narrow Fortunes rendred him greedy enough of Mo<g ref="char:EOLhyphen"/>ny.</p>
+            <p>Eſcaping thus narrowly, did not in the leaſt abate, but ra<g ref="char:EOLhyphen"/>ther redouble her Fortitude, and reinforce her Reſolutions not to give over till ſhe had attained her ends: of which ſhe had the faireſt Proſpect, in that Critical time of General <hi>Monks</hi> Action. With him
+<pb n="81" facs="tcp:50328:46"/>
+therefore ſhe enters into a ſpeedy and ſecret Correſpon<g ref="char:EOLhyphen"/>dency; and though he was one of a moſt retired and prudent warineſs, yet ſo far he intruſted her (which he did few beſides) that he ſent her by a conſiderable Officer, a private Signal by which ſhe might know his Intentions; and ſo managed they were by this brave Man, that they proved according to his Aſ<g ref="char:EOLhyphen"/>ſurances, and her Wiſhes, the Kings Reſtauration.</p>
+            <p>And if there be any thing by which this great Lady may be allowed to have ob<g ref="char:EOLhyphen"/>liged the Preſent, or to fill Future times, with Admira<g ref="char:EOLhyphen"/>tion
+<pb n="82" facs="tcp:50328:47"/>
+and Acknowledgments; it muſt be this glorious Act of Aſſiſting towards that univerſal good, which the whole World ſtood in expectation of, and ſo ma<g ref="char:EOLhyphen"/>ny Thouſands of hands were lifted up to Heaven to Ac<g ref="char:EOLhyphen"/>compliſh.</p>
+            <p>The General in all this knew her Merit, and valued her accordingly; and entring into a noble Friendſhip, con<g ref="char:EOLhyphen"/>tinued it with the greateſt Reſpects, to her death. The King himſelf alſo, that ſhe might receive the utmoſt Honour, as well as Satisfacti<g ref="char:EOLhyphen"/>on by his Return, was plea<g ref="char:EOLhyphen"/>ſed (as his Father of Bleſſed
+<pb n="83" facs="tcp:50328:47"/>
+Memory had done before) Graciouſly to aſſure her that he had a great ſenſe of her conſtant Zeal in his Service, and as a particular mark of his extraordinary Favour, would Himſelf with the Queen, Queen Mother, and Royal Family, often Dine with her; and ſometimes break in upon her on a ſud<g ref="char:EOLhyphen"/>dain after hunting.</p>
+            <p>And that no Token of Reſpect might be wanting, towards the Declining part of her Age, when ſhe could not pay her Attendance up<g ref="char:EOLhyphen"/>on the Queen, with the uſu<g ref="char:EOLhyphen"/>al and due Solemnities of Court Addreſs, ſhe was ad<g ref="char:EOLhyphen"/>mitted
+<pb n="84" facs="tcp:50328:48"/>
+to wait upon her Majeſty with more than ordinary Eaſe and Kind<g ref="char:EOLhyphen"/>neſs.</p>
+            <p>But there were other Courts, to which as ſhe had through her whole life, been preparing her ſelf; now ſhe began with greater Intenti<g ref="char:EOLhyphen"/>ons, and the expence of lar<g ref="char:EOLhyphen"/>ger portions of her time, to Dreſs up her Soul for. En<g ref="char:EOLhyphen"/>ter ſhe does into a beloved Retirement, from the noiſe, and imbroilments of buſineſs with ſilence and devotion, to fit her ſelf for Paradice: drew the Curtain to the Affairs of the world, ſome years before her Death to entertain her
+<pb n="85" facs="tcp:50328:48"/>
+ſelf, with Meditations and Preparations for Eternity.</p>
+            <p>Not that ſhe excluded her ſelf from any offices of Ci<g ref="char:EOLhyphen"/>vility to her Friends, or the moſt indearing expreſſions of Tenderneſs towards her Rela<g ref="char:EOLhyphen"/>tions; but rather did with more Paſſion, and Earneſtneſs deſire their continual Compa<g ref="char:EOLhyphen"/>ny: and when without that, of her Son the Earl of <hi>Devonſhire</hi> and his Lady, ſhe would be more importunate for the uſeful, and agreeable Con<g ref="char:EOLhyphen"/>verſation of her Nephew the Earl of <hi>Ailesbury,</hi> and his Counteſs.</p>
+            <p>For ſtill, ſhe had a nume<g ref="char:EOLhyphen"/>rous Family, and a Croud of
+<pb n="86" facs="tcp:50328:49"/>
+Servants; which now in her Age muſt have incircled her with as many Troubles alſo, if by the Advice of her Neece the Counteſs of <hi>Ailesbury,</hi> the Decency, and Compoſure of her mind, as well as Buſineſs, had not been ſecured.</p>
+            <p>For her great Age had ren<g ref="char:EOLhyphen"/>dred her own Vertues ſome<g ref="char:EOLhyphen"/>thing unactive; but this was abundantly ſupplyed by ſuch Methods and Guards of Pru<g ref="char:EOLhyphen"/>dence, which ſhe received from another hand; by whoſe Care, and Wiſdom, her Thoughts and Affairs were defended from a great many Vexaions, and Hazards. And the more our good Lady
+<pb n="87" facs="tcp:50328:49"/>
+wanted the Aſſiſtance of a true and prudent Friend, the more the Counteſs of <hi>Ailesbury</hi> con<g ref="char:EOLhyphen"/>ſidered her Duty, and with the moſt generous Compaſſions, (in the loweſt Declination of our Ladies ſtrength and years) increaſed her Attendance, and by ſuch Counſels, as ſhe had always ready in her Prudent mind, and a wiſe obſervation of things, made the laſt Scenes of her life, more eaſie and honourable.</p>
+            <p>Before Death ſeized her, it ſhewed it ſelf at a diſtance, and God was pleaſed ſo to order it, that by ſome previous In<g ref="char:EOLhyphen"/>firmities, (as well as by a great Age) ſhe ſhould be called up<g ref="char:EOLhyphen"/>on
+<pb n="88" facs="tcp:50328:50"/>
+to provide for her greateſt Intereſt. And ſhe ſoon under<g ref="char:EOLhyphen"/>ſtood the Intent of Gods Pro<g ref="char:EOLhyphen"/>vidence; and by Methods, truly Chriſtian, prepared her ſelf for Him.</p>
+            <p>Her laſt ſickneſs (though it continued for ſome time) was entertained with great Patience, and repeated De<g ref="char:EOLhyphen"/>votions; with a perfect Re<g ref="char:EOLhyphen"/>ſignation to Gods Will, and all the Offices preparatory to an holy Dying: but con<g ref="char:EOLhyphen"/>ſidering with her ſelf that Charity was that only Grace which entred Heaven, her Love to God became now more intenſe and opera<g ref="char:EOLhyphen"/>tive, nor could ſhe even
+<pb n="89" facs="tcp:50328:50"/>
+under her Pains, forbear her uſual Compaſſion and Boun<g ref="char:EOLhyphen"/>ties to the Poor, but would often inquire of her Neece, the Counteſs of <hi>Ailesbury,</hi> whether there were none that wanted Relief, and would by the hands of her Chaplain, to the very laſt minutes of her Life, conti<g ref="char:EOLhyphen"/>nue the beloved Practices of Beneficence.</p>
+            <p>Her Servants had received many, and thoſe very great Inſtances of her Bounty; but ſhe could not leave them without a farewel Teſtimo<g ref="char:EOLhyphen"/>ny; and therefore beſides the large Legacies left to them by Will, ſhe ordered a
+<pb n="90" facs="tcp:50328:51"/>
+great ſum to be given a<g ref="char:EOLhyphen"/>mongſt them, not long be<g ref="char:EOLhyphen"/>fore her Death, by the Coun<g ref="char:EOLhyphen"/>teſs of <hi>Ailesbury.</hi>
+            </p>
+            <p>To whom our Lady thought her ſelf ſo infi<g ref="char:EOLhyphen"/>nitely obliged, that ſhe be<g ref="char:EOLhyphen"/>ſeeched her to make choice of her own Retributions, which ſhe would confirm by ſigning any Inſtrument which ſhould be offered to her; But the Counteſs had had her Reward before, and would have no other than the inward ſatisfactions of mind, ariſing from the Delights of doing well.</p>
+            <p>And now our good Lady was haſtning to Heaven, and
+<pb n="91" facs="tcp:50328:51"/>
+being Crowned with many Years, and Honours, ſhe went to receive that of Immorta<g ref="char:EOLhyphen"/>lity, in <hi>January,</hi> 1674. The Noble Lord, her Son, took care that the ſolemnities of her ly<g ref="char:EOLhyphen"/>ing in State, and thoſe alſo of her Funeral ſhould correſpond to the Magnificence of her living. The Train which wait<g ref="char:EOLhyphen"/>ed on her to her Burial, was great, and noble; and beſides her own Retinue, (which was more numerous than any other of her Quality) her Nephew, the Earl of <hi>Ailesbury,</hi> his Eldeſt Son, the Lord <hi>Bruce,</hi> his ſecond Son, Mr. <hi>Robert Bruce</hi> (whom for ſome years ſhe
+<pb n="92" facs="tcp:50328:52"/>
+had taken into her own Care, and Family, and <hi>Co<g ref="char:EOLhyphen"/>lonel Cook,</hi> (whom as a conſtant Friend to her ſelf, and her Relations, ſhe had made one of the Overſeers of her Will) did atttend her to <hi>Derby,</hi> the Burial Place of the Earl of <hi>De<g ref="char:EOLhyphen"/>vonſhires</hi> Family; where du<g ref="char:EOLhyphen"/>ring her life ſhe had Erect<g ref="char:EOLhyphen"/>ed a Monument for her <hi>Lord, Her ſelf</hi> and <hi>Children.</hi> One of them, <hi>Colonel Charles Cavendiſh,</hi> (a Perſon of that Bravery, and Worthineſs, that his very Aſhes ought to be ſacred) was ſo Dear to his Mother, that accord<g ref="char:EOLhyphen"/>ing to her deſire, his Corps
+<pb n="93" facs="tcp:50328:52" rendition="simple:additions"/>
+were taken up at <hi>Newark,</hi> and in another Herſe, waited <hi>that</hi> of his Beloved Mothers to <hi>Derby.</hi> To both, paſſing through <hi>Leiceſter,</hi> were due Reſpects paid to their Me<g ref="char:EOLhyphen"/>mories; the Magiſtrates of that Place attending in their Formalities; the Gentry o the County alſo, meeting there and waiting them out of Town. The ſame Ho<g ref="char:EOLhyphen"/>nourable Reception they had at <hi>Derby,</hi> where they were both interred: Her Funeral Sermon preached by Mr. <hi>Frampton</hi> (Chaplain to the Earl of <hi>Elgin)</hi> now Biſhop of <hi>Gloceſter;</hi> his, by Mr. <hi>Naylor</hi> Chaplain to the
+<pb n="94" facs="tcp:50328:53"/>
+Counteſs. Never was a Woman more honoured through her whole life, and at her death; and by both ſhe hath taught all Ladies, That the ſureſt Path to Honour, is by Vertue.</p>
+            <p>And both for the Me<g ref="char:EOLhyphen"/>thod, and the Experiment, we have not had of late a more pregnant Inſtance than this of our Noble Lady; for by the Methods of Ver<g ref="char:EOLhyphen"/>tue, ſhe obtained the Re<g ref="char:EOLhyphen"/>putation to be a Perſon of the greateſt Character, and Bleſſings. Amongſt which, it was not the leaſt, in her own Account, that ſhe had ſuch fair hopes that her
+<pb n="95" facs="tcp:50328:53"/>
+Nobleneſs would deſcend, and continue in her Son the Earl of <hi>Devonſhire,</hi> and her two Grandchildren, the Lord <hi>William,</hi> and the Lady <hi>Anne Cavendiſh.</hi>
+            </p>
+            <p>
+               <hi>He,</hi> the young Lord, appearing one of the fineſt Gentlemen in the World, married to a Daughter of his <hi>Grace</hi> the <hi>Duke</hi> of <hi>Or<g ref="char:EOLhyphen"/>mond;</hi> a Lady of great Goodneſs, and ſingular Cha<g ref="char:EOLhyphen"/>rity. <hi>She</hi> the Lady <hi>Anne Cavendiſh,</hi> improving her youth to ſuch early Ver<g ref="char:EOLhyphen"/>tues, that ſhe ſoon became Eminent for her extraordi<g ref="char:EOLhyphen"/>nary Modeſty, and moſt punctual Duty to her Pa<g ref="char:EOLhyphen"/>rents:
+<pb n="96" facs="tcp:50328:54"/>
+married firſt to the Lord <hi>Rich,</hi> Grandchild to the <hi>Earl</hi> of <hi>Warwick;</hi> who dying left her a young Widow, to make Fortunate the Lord <hi>Burleigh,</hi> now Earl of <hi>Exeter,</hi> her ſecond Husband.</p>
+            <p>One thing more there was, which ſhe would ſay, added infinitely to her Content<g ref="char:EOLhyphen"/>ments, to ſee that excellent, and nobleſt Friendſhip be<g ref="char:EOLhyphen"/>tween the Earl of <hi>Devonſhire,</hi> her Son, and the Earl of <hi>Ai<g ref="char:EOLhyphen"/>lesbury,</hi> her Nephew. Which as it was one of the greateſt Pleaſures of her life, ſo the continuance of it, was one of her lateſt and moſt paſſio<g ref="char:EOLhyphen"/>nate Deſires.</p>
+            <p>
+               <pb n="97" facs="tcp:50328:54"/>
+And ſuch effect it had upon theſe two noble Lords, that the Friendſhip which began at Relation, and Ac<g ref="char:EOLhyphen"/>quaintance, ſtayed not there; but went forward to the beſt thing in all the World, to the moſt particular In<g ref="char:EOLhyphen"/>dearment, and moſt uſe<g ref="char:EOLhyphen"/>full Love. For ſeeing a Worthyneſs in each other, which is the juſt and pro<g ref="char:EOLhyphen"/>per Motive for Friendſhip, They united ſuch Affections as were natural and vertu<g ref="char:EOLhyphen"/>ous, made up of great Dearneſs, and the braveſt Combination of Councils, and Fortunes, and Inter<g ref="char:EOLhyphen"/>reſts.</p>
+            <p>
+               <pb n="98" facs="tcp:50328:55"/>
+And it were well that when ever we enter into ſuch a Friendſhip, which we intend ſhould be (as indeed true Friendſhip is) the Plea<g ref="char:EOLhyphen"/>ſure of Life, and the De<g ref="char:EOLhyphen"/>light of Converſation, that we would chooſe a Friend, amongſt the Prudent, and the Generous, the Secret, and the Faithful, the Inge<g ref="char:EOLhyphen"/>nuous and the Honeſt; for no other are fit, or able to do thoſe Offices, for which Friendſhip is uſeful, and ex<g ref="char:EOLhyphen"/>cellent.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:50328:55"/>
+            <pb n="98" facs="tcp:50328:56"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:50328:56"/>
+         </div>
+      </body>
+   </text>
+</TEI>
